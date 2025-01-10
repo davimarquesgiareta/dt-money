@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2025-01-08T20:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Resident Evil 2 Remake",
+      "type": "outcome",
+      "category": "Games",
+      "price": 150,
+      "createdAt": "2025-02-08T20:36:44.505Z"
     }
   ]
 }
