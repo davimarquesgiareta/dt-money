@@ -1,4 +1,4 @@
-# dt-money# Dt Money
+# Dt Money
 
 Dt Money is a financial management system that allows you to track your income, expenses, and total balance based on customizable categories. You can create your own categories and use filters to view specific transactions efficiently.
 
@@ -45,7 +45,7 @@ Radix-UI is used to create accessible and highly customizable UI components for 
 ## Screenshots
 
 ![HomeView](/src/assets/screenshots/home-view.png)
-![CreateTransactionView](/src/assets/screenshots/create-transaction-view.png.png)
+![CreateTransactionView](/src/assets/screenshots/create-transaction-view.png)
 
 ## How to run
 
